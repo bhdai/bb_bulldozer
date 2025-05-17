@@ -5,6 +5,8 @@ description = "Bluebook for Bulldozers"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dtreeviz>=2.2.2",
+    "graphviz>=0.20.3",
     "ipykernel>=6.29.5",
     "kaggle>=1.7.4.5",
     "matplotlib>=3.10.3",
